@@ -1,0 +1,6 @@
+proglist
+restart
+version
+troll [color]
+exit
+returnip

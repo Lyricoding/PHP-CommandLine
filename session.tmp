@@ -1,0 +1,68 @@
+<span class="phpOS">Demarrage d'une nouvelle session...<br/>Preparation des fichiers de sauvegardes...<br/>Pret.</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist =
+<br/>restart
+<br/>version
+<br/>troll
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ praglist</br><span class="phpOS">praglist : commande introuvable.</span><br/>user@phpOS:~$ proglist big</br><span class="phpOS">proglist =
+<br/>restart
+<br/>version
+<br/>troll
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ geeee</br><span class="phpOS">geeee : commande introuvable.</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist
+<br/>restart
+<br/>version
+<br/>troll [color]
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ troll red</br><span style="color:red;">
+░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░<br/>
+░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░<br/>
+░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░<br/>
+░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░<br/>
+░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░<br/>
+█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█<br/>
+█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█<br/>
+░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░<br/>
+░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░<br/>
+░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░<br/>
+░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░<br/>
+░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░<br/>
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░<br/>
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░<br/>
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
+</span><br/>user@phpOS:~$ troll blue</br><span style="color:blue;">
+░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░<br/>
+░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░<br/>
+░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░<br/>
+░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░<br/>
+░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░<br/>
+█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█<br/>
+█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█<br/>
+░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░<br/>
+░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░<br/>
+░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░<br/>
+░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░<br/>
+░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░<br/>
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░<br/>
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░<br/>
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
+</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist
+<br/>restart
+<br/>version
+<br/>troll <span style:"color:#990000">[color]</span>
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist
+<br/>restart
+<br/>version
+<br/>troll <span style:"color:#000000;">[color]</span>
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist
+<br/>restart
+<br/>version
+<br/>troll <span style="color:#000000;">[color]</span>
+<br/>exit
+<br/>returnip</span><br/>user@phpOS:~$ proglist</br><span class="phpOS">proglist
+<br/>restart
+<br/>version
+<br/>troll <span style="color:#990000;">[color]</span>
+<br/>exit
+<br/>returnip</span><br/>

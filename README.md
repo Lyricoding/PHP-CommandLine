@@ -7,4 +7,4 @@ Les programmes sont stockés dans le dossier "prog" en nomDuProgramme.php . Ils 
 
 Le programme consiste en une fonction start() qui peut avoir jusqu'a cinq arguments. Cependant, le systeme d'arguments étant peu pratique, il serait intéréssant de le revoir, et peut-etre de lui donner un format plus proche d'une commande GNU.
 
-Par ailleur, le systeme ne supporte actuellement que un seul utilisateur à la fois.
+Par ailleur, le systeme ne supporte actuellement qu'un seul utilisateur à la fois.
